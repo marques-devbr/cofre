@@ -6,7 +6,7 @@
 
 ## O que é
 
-Se isso já é um trabalho de primeiro semestre, eu não quero nem saber como vai ser daqui em diante.
+O Cofre é um site com ferramentas de segurança digital que rodam direto no navegador, sem login e sem guardar dados de quem usa. Ele consulta se uma senha já apareceu em vazamentos, estima a força de uma senha e cifra textos com a cifra de César. Fiz este projeto na disciplina de Introdução à Ciência da Computação, a partir de um código-base do professor.
 
 ## Ferramentas
 
