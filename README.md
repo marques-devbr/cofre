@@ -16,7 +16,11 @@ Se isso já é um trabalho de primeiro semestre, eu não quero nem saber como va
 
 ## O que eu aprendi
 
-- Escreva pelo menos 3 itens reais.
+- Um branch deixa eu criar uma ferramenta sem mexer na versão principal, e o merge junta tudo depois que funciona.
+- Apagar o `.env` não apaga a senha do histórico: o `git show` de um commit antigo ainda mostra o conteúdo, então uma senha real teria que ser trocada.
+- Um conflito acontece quando dois branches mudam a mesma linha. Resolvi escolhendo a cor final do `style.css` e apagando os marcadores do Git.
+- O `git revert` desfaz um commit com um commit novo, sem apagar o histórico. Foi assim que corrigi o `*` que tinha virado `+` na calculadora de bits.
+- Uma issue com `Closes #1` na mensagem do commit fecha sozinha quando o pull request é aceito.
 
 ## Tecnologias
 
