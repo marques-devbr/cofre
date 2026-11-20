@@ -12,7 +12,7 @@ Se isso já é um trabalho de primeiro semestre, eu não quero nem saber como va
 
 - **Essa senha já vazou?** Consulta uma base real de senhas vazadas sem enviar a senha (k-anonimato).
 - **Quantos bits tem essa senha?** Estima a força da senha.
-- **Fim do mundo** Tenho mesmo que responder?
+- **Cifra de César:** desloca cada letra do alfabeto por uma chave de 1 a 25 para cifrar um texto, e volta ao texto original ao decifrar com a mesma chave.
 
 ## O que eu aprendi
 
@@ -33,4 +33,4 @@ O histórico tem um arquivo `.env` com uma senha falsa, de propósito: foi um ex
 ## Créditos
 
 Código-base do Prof. Mario Rebello, na disciplina Introdução à Ciência da Computação (2026/2).
-A ferramenta NOME DA SUA FERRAMENTA é de minha autoria. Licença MIT.
+A ferramenta Cifra de César foi feita por mim, com apoio de IA (Claude) na escrita do código. Licença MIT.
